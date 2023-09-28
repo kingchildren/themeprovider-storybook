@@ -32,10 +32,10 @@
     "qss": "^2.0.3"
   },
   "peerDependencies": {
-    "@storybook/addons": "^5.x.x || ^6.x.x",
-    "@storybook/react": "^5.x.x || ^6.x.x",
-    "react": "^16.x || ^17.x",
-    "styled-components": "^4.x.x || ^5.x.x"
+    "@storybook/addons": "^5.x.x || ^6.x.x || ^7.x.x",
+    "@storybook/react": "^5.x.x || ^6.x.x || ^7.x.x",
+    "react": "^16.x || ^17.x || ^18.x",
+    "styled-components": "^4.x.x || ^5.x.x || ^6.x.x"
   },
   "devDependencies": {
     "@babel/core": "^7.11.4",
